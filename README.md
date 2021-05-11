@@ -18,3 +18,5 @@ apssdc, this is front end project an  project by using React JS
    1. whole numbres
     2. natural numbers
     3. integers
+
+![guns](https://richmond.com/news/virginia/1-102-people-were-denied-purchase-of-gun-during-first-month-of-va-s-new/article_b4ed9ce4-7894-54f5-9e43-abe4fb457ed5.html)
